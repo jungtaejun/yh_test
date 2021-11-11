@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .logo {
     display: inline-block;
     width: 100%;
@@ -10,14 +10,7 @@
     position: relative;
     bottom: 250px;
 }
-h1 {
-    text-align: center;
-    position: absolute;
-    top: 25%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-}
+
 #header_1 {
     text-align: center;
     position: absolute;
@@ -29,7 +22,6 @@ h1 {
 
 }
 
-=======
 img {
     width: 1903px; height: 969px;
     background-size: cover;
@@ -42,4 +34,3 @@ h1 {
 	left: 50%;
 	transform: translate( -50%, -50% );
 }
->>>>>>> 916fd09acb9d2b062057799cb5cf7d76f898e3fa
