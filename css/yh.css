@@ -1,1 +1,71 @@
 
+.logo {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+}
+#logo_1 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 250px;
+}
+
+#header_1 {
+    text-align: center;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 24px;
+
+}
+
+.main-fade-img01 {
+    width: 1903px; height: 969px;
+    background-size: cover;
+}
+.main-center-txet {
+	top: 50%;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: -35px;
+    color: #fff;
+    z-index: 2;
+}
+.main-h1 {
+    font-size: 30px;
+    font-weight: 500;
+    color: #fff;
+}
+a {text-decoration:none}
+ .main-center-txet .main-stories-btn {
+    margin-top: 16px;
+    background: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 2em;
+}
+.main-stories-btn {
+    padding: 20px 30px;
+    display: inline-block;
+}
+ .main-center-txet .main-stories-btn .main-btn-txet {
+    color: #fff;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.main-stories-btn .main-btn-txet {
+    display: block;
+    font-size: 20px;
+    line-height: 100%;
+    font-weight: 500;
+    padding-left: 20px;
+    padding-right: 5px;
+}
