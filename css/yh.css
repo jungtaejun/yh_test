@@ -1,4 +1,4 @@
-
+/* S : header */
 .logo {
     display: inline-block;
     width: 100%;
@@ -10,7 +10,6 @@
     position: relative;
     bottom: 250px;
 }
-
 #header_1 {
     text-align: center;
     position: absolute;
@@ -21,7 +20,8 @@
     font-size: 24px;
 
 }
-
+/* e : header */
+/* MAIN */ 
 .main-fade-img01 {
     width: 1903px; height: 969px;
     background-size: cover;
