@@ -141,3 +141,20 @@ a {text-decoration:none}
 .main-stories-page {
     text-align: center;
 }
+.main-story {
+    width: 920px;
+    margin: 0 auto 80px auto;
+}
+.main-story-img {
+    width: 920px;
+}
+.main-stories {
+    width: 920px;
+    margin: 0 auto;
+}
+.main-stories img {
+    width: 435px;
+}
+.story {
+    margin-bottom: 80px;
+}
