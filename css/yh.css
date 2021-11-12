@@ -87,3 +87,17 @@ a {text-decoration:none}
     border-bottom: 2px solid #000;
     display: inline-block;
 }
+.main-membership-swiper {
+    margin-top: 70px;
+    padding: 0 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-title-img {
+    width: 920px;
+    height: 552px;
+    text-align: center;
+    object-fit:cover
+    
+}
