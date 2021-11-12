@@ -133,8 +133,10 @@ a {text-decoration:none}
 }
 /* e : membership page */
 /* s : yoohuu stories page*/
+.main-bgc {
+    background-color: #8eccff;
+}
 .main-yoohuu-stories {
-    background-color:#8eccff ;
     padding-top: 80px;
     padding-bottom: 80px;
 }
@@ -152,9 +154,34 @@ a {text-decoration:none}
     width: 920px;
     margin: 0 auto;
 }
-.main-stories img {
+.story-img {
     width: 435px;
 }
 .story {
     margin-bottom: 80px;
+}
+.sm-img {
+    width: 24px;
+}
+.miss {
+    font-size: 16px;
+    color: #000;
+    line-height: 180%;
+    font-weight: 500;
+    font-weight: 400;
+}
+.col span {
+    font-size: 16px;
+    color: #000;
+    line-height: 180%;
+    font-weight: 500;
+    font-weight: 400;
+}
+.title-text span{
+    font-size: 20px;
+    color: #000;
+    width: 80%;
+    font-weight: 500;
+    line-height: 150%;
+    display: block;
 }
