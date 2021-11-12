@@ -82,7 +82,7 @@
     text-align: center;
 }
 
-.about-page2-main {
+.about-page2-img {
     display: inline-block;
     width: 500px;
     height: 620px;
@@ -98,7 +98,7 @@
     font-size: 20px;
     position: absolute;
     top: 158%;
-    left: 33%;
+    left: 36%;
     transform: translate(-50%,-50%);
 }
 
@@ -106,7 +106,7 @@
     display: inline-block;
     position: absolute;
     top: 167%;
-    left: 33%;
+    left: 36%;
     transform: translate(-50%,-50%);
     text-align: left;
     font-size: 18px;
@@ -116,7 +116,7 @@
     display: inline-block;
     position: absolute;
     top: 171%;
-    left: 33%;
+    left: 36%;
     transform: translate(-50%,-50%);
     text-align: left;
     font-size: 16px;
@@ -125,7 +125,7 @@
     display: inline-block;
     position: absolute;
     top: 177%;
-    left: 33%;
+    left: 36%;
     transform: translate(-50%,-50%);
     text-align: left;
     font-size: 18px;
@@ -135,7 +135,7 @@
     display: inline-block;
     position: absolute;
     top: 181%;
-    left: 33%;
+    left: 36%;
     transform: translate(-50%,-50%);
     text-align: left;
     font-size: 16px;
@@ -145,7 +145,7 @@
     display: inline-block;
     position: absolute;
     top: 187%;
-    left: 33%;
+    left: 36%;
     transform: translate(-50%,-50%);
     text-align: left;
     font-size: 18px;
@@ -155,13 +155,13 @@
     display: inline-block;
     position: absolute;
     top: 191%;
-    left: 33%;
+    left: 36%;
     transform: translate(-50%,-50%);
     text-align: left;
     font-size: 16px;
 }
 
-.about-page3-main {
+.about-page3-img {
     display: inline-block;
     width: 500px;
     height: 620px;
@@ -209,4 +209,58 @@
     transform: translate(-50%,-50%);
     text-align: left;
     font-size: 17px;
+}
+
+.about-page4-img {
+    display: inline-block;
+    width: 500px;
+    height: 620px;
+    position: absolute;
+    top: 325%;
+    left: 62%;
+    transform: translate(-50%,-50%);
+}
+
+.about-page4-one {
+    display: inline-block;
+    text-align: left;
+    font-size: 18px;
+    position: absolute;
+    top: 303%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+}
+
+.about-page4-onetext {
+    display: inline-block;
+    text-align: left;
+    font-size: 18px;
+    position: absolute;
+    top: 315%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+}
+
+.about-fontcolor {
+    color: #999999;
+}
+
+.about-page4-two {
+    display: inline-block;
+    text-align: left;
+    font-size: 18px;
+    position: absolute;
+    top: 328%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+}
+
+.about-page4-twotext {
+    display: inline-block;
+    text-align: left;
+    font-size: 18px;
+    position: absolute;
+    top: 334%;
+    left: 40%;
+    transform: translate(-50%,-50%);
 }
