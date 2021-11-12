@@ -132,3 +132,12 @@ a {text-decoration:none}
     padding-right: 5px;
 }
 /* e : membership page */
+/* s : yoohuu stories page*/
+.main-yoohuu-stories {
+    background-color:#8eccff ;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.main-stories-page {
+    text-align: center;
+}
