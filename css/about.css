@@ -1,4 +1,9 @@
 .about-bg {
+    width: 1903px; height: 969px;
+    background-size: cover;
+}
+
+.about-bg {
     object-fit: cover;
     width: 100%;
     height: 100%;
@@ -82,4 +87,64 @@
     white-space: nowrap;
     text-align: center;
 }
+
+.about-main {
+    display: inline-block;
+    width: 500px;
+    height: 620px;
+    position: absolute;
+    top: 180%;
+    left: 62%;
+    transform: translate(-50%,-50%);
+}
+
+.about-page2-h2 {
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+    position: absolute;
+    top: 158%;
+    left: 33%;
+    transform: translate(-50%,-50%);
+}
+
+.about-page2-one {
+    display: inline-block;
+    position: absolute;
+    top: 165%;
+    left: 33%;
+    transform: translate(-50%,-50%);
+    text-align: left;
+    font-size: 18px;
+}
+
+.about-page2-textone {
+    display: inline-block;
+    position: absolute;
+    top: 169%;
+    left: 33%;
+    transform: translate(-50%,-50%);
+    text-align: left;
+    font-size: 16px;
+}
+.about-page2-two {
+    display: inline-block;
+    position: absolute;
+    top: 175%;
+    left: 33%;
+    transform: translate(-50%,-50%);
+    text-align: left;
+    font-size: 18px;
+}
+
+.about-page2-texttwo {
+    display: inline-block;
+    position: absolute;
+    top: 179%;
+    left: 33%;
+    transform: translate(-50%,-50%);
+    text-align: left;
+    font-size: 16px;
+}
+
 
