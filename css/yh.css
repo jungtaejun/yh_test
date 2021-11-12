@@ -141,30 +141,3 @@ a {text-decoration:none}
 .main-stories-page {
     text-align: center;
 }
-.main-images-aria {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.main-stories-lmages {
-    padding-top: 40px;
-    margin-left: -25px;
-    margin-right: -25px;
-}
-.main-stories-top-img {
-    width: 920px;
-    height: 552px;
-    object-fit:cover
-}
-.main-top-img-text{
-    padding-top: 15px;
-    padding-bottom: 10px;
-}
-.main-img-text {
-    font-size: 20px;
-    color: #000;
-    width: 80%;
-    font-weight: 500;
-    line-height: 150%;
-    display: block;
-}
