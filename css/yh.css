@@ -21,6 +21,7 @@
 
 }
 /* e : header */
+
 /* s : MAIN */ 
 .main-fade-img01 {
     width: 1903px; height: 969px;
@@ -70,8 +71,9 @@ a {text-decoration:none}
     padding-right: 5px;
 }
 /* e : Main */
+
 /* s : membership page */
-.main-membership-page {
+.main-page {
     padding-top: 80px;
     padding-bottom: 80px;
 }
@@ -132,6 +134,7 @@ a {text-decoration:none}
     padding-right: 5px;
 }
 /* e : membership page */
+
 /* s : yoohuu stories page*/
 .main-bgc {
     background-color: #8eccff;
@@ -184,4 +187,41 @@ a {text-decoration:none}
     font-weight: 500;
     line-height: 150%;
     display: block;
+}
+.main-white-btn {
+display: block;
+    text-align: center;
+    width: 100%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+}
+.main-story-btn {
+    padding: 20px 30px;
+    padding-right: 22px;
+    background: #fff;
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+}
+.plus_black_icon {
+    width: 24px;
+    position: absolute;
+    left: 21px;
+    top: 19px;
+}
+.main-move-story-btn {
+    display: block;
+    font-size: 20px;
+    line-height: 100%;
+    font-weight: 500;
+    padding-left: 20px;
+    padding-right: 5px;
+    color: black;
 }
