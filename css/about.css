@@ -7,12 +7,13 @@
 .about-title {
     display: inline-block;
     position: absolute;
-    top: 40%;
+    top: 42%;
     left: 50%;
     transform: translate(-50%,-50%);
     color: white;
-    font-size: 30px;
+    font-size: 26px;
     text-align: center;
+    margin: 0px 0px 25px;
 }
 
 .about-sub-title {
@@ -22,8 +23,9 @@
     left: 50%;
     transform: translate(-50%,-50%);
     color: white;
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
+    padding: 0px 0px 3px;
 }
 
 .about-down {
@@ -43,18 +45,18 @@
     top: 5%;
     left: 2%;
     transform: translate(-50%,-50%);
-    width: 30px;
-    height: 70px;
+    width: 26px;
+    height: 66px;
 }
 
 .about-menu {
     display: inline-block;
     position: fixed;
-    bottom: 93%;
+    bottom: 94%;
     left: 98%;
     transform: translate(-50%,-50%);
-    width: 40px;
-    height: 40px;
+    width: 32px;
+    height: 32px;
 }
 
 .about-one {
@@ -63,24 +65,25 @@
     top: 130%;
     left: 50%;
     transform: translate(-50%,-50%);
-    width: 35px;
-    height: 60px;
+    width: 27px;
+    height: 51px;
 }
 
 .about-yoohuu-h1 {
     display: inline-block;
     position: absolute;
     top: 140%;
-    left: 49%;
+    left: 50%;
     transform: translate(-50%,-50%);
-    width: 180px;
+    width: 200px;
     height: 50px;
-    text-decoration: underline;
-    text-underline-position: under;
     color: #988564;
-    font-size: 30px;
+    font-size: 26px;
     white-space: nowrap;
     text-align: center;
+    padding-bottom: 3px;
+    border-bottom: 3px solid #988564
+
 }
 
 .about-page2-img {
@@ -348,10 +351,10 @@
 }
 
 .about-page5-black {
-    color: black;
+    color: #000;
 }
 
 .about-blankin {
-    color: black;
+    color: #000;
     text-decoration:none 
 }
