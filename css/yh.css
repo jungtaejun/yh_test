@@ -272,3 +272,38 @@ a {text-decoration:none}
         line-height: 30px; 
 }
 /* e : find place page*/
+.input-group-container{
+    text-align: center;
+}
+.input-group {
+    padding: 0;
+    margin-bottom: 20px;
+}
+.input-group input[type=text] {
+    background: transparent;
+    display: block;
+    background: #fff;
+    border: 1px solid #eee;
+    height: 60px;
+    padding-left: 25px;
+    width: 100%;
+}
+.input-group textarea {
+    background: #fff;
+    border: 1px solid #eee;
+    padding: 25px;
+    width: 100%;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+.submit-group {
+    text-align: center;
+}
+.submit-group a {
+    border-bottom: 1px solid #999;
+    color: #999;
+}
+.pp-guide {
+    color: #999;
+}
