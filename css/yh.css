@@ -239,3 +239,26 @@ a {text-decoration:none}
     width: 56px;
     height: 56px;
 }
+.main-house-btn {
+    padding: 20px 30px;
+    background: #50b56e;
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    border-radius: 2em;
+}
+.plus_green_icon {
+    width: 24px;
+    position: absolute;
+    left: 21px;
+    top: 19px;
+}
+.main-move-house-btn {
+    display: block;
+    font-size: 20px;
+    line-height: 100%;
+    font-weight: 500;
+    padding-left: 20px;
+    padding-right: 5px;
+    color: black;
+}
