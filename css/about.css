@@ -368,7 +368,7 @@
 .about-page5-righttext {
     display: inline-block;
     position: absolute;
-    top: 500%;
+    top: 498%;
     left: 50%;
     text-align: left;
     font-size: 20px;
@@ -384,12 +384,13 @@
 .about-ba {
     color: #000;
     text-decoration:none 
+    
 }
 
 .about-page6-underline {
     display: inline-block;
     position: absolute;
-    top: 535%;
+    top: 545%;
     left: 50%;
     transform: translate(-50%,-50%);
     border: 1px solid;
@@ -407,7 +408,12 @@
     transform: translate(-50%,-50%);
     width: 35px;
     height: 14px;
-    
 }
 
+.about-baton {
+    padding-bottom: 8px;
+}
 
+.about-LH {
+    padding-top: 85px;
+}
