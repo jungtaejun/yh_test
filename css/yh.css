@@ -262,3 +262,13 @@ a {text-decoration:none}
     padding-right: 5px;
     color: black;
 }
+/* e : yoohuu house page*/
+/* s : find place page*/
+.main-find {
+    margin-top: 30px;
+        display: block;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 30px; 
+}
+/* e : find place page*/
