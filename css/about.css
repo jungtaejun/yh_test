@@ -283,16 +283,16 @@
     display: inline-block;
     position: absolute;
     top: 384%;
-    left: 49%;
+    left: 50%;
     transform: translate(-50%,-50%);
-    width: 180px;
+    width: 250px;
     height: 50px;
-    text-decoration: underline;
-    text-underline-position: under;
     color: #988564;
-    font-size: 30px;
+    font-size: 26px;
     white-space: nowrap;
     text-align: center;
+    padding-bottom: 3px;
+    border-bottom: 3px solid #988564
 }
 
 .about-page5img {
@@ -321,7 +321,7 @@
     display: inline-block;
     position: absolute;
     top: 460%;
-    left: 53%;
+    left: 50%;
     text-align: left;
     font-size: 20px;
     padding-bottom: 5px;
@@ -332,7 +332,7 @@
     display: inline-block;
     position: absolute;
     top: 470%;
-    left: 53%;
+    left: 50%;
     text-align: left;
     font-size: 20px;
     padding-bottom: 5px;
@@ -343,7 +343,7 @@
     display: inline-block;
     position: absolute;
     top: 480%;
-    left: 53%;
+    left: 50%;
     text-align: left;
     font-size: 20px;
     padding-bottom: 5px;
@@ -358,3 +358,56 @@
     color: #000;
     text-decoration:none 
 }
+
+.about-1h {
+    color: #000;
+    text-decoration:none 
+    
+}
+
+.about-page5-righttext {
+    display: inline-block;
+    position: absolute;
+    top: 500%;
+    left: 50%;
+    text-align: left;
+    font-size: 20px;
+    padding-bottom: 5px;
+    color: #666666;
+}
+
+.about-hw {
+    color: #000;
+    text-decoration:none 
+}
+
+.about-ba {
+    color: #000;
+    text-decoration:none 
+}
+
+.about-page6-underline {
+    display: inline-block;
+    position: absolute;
+    top: 535%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: 1px solid;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    color: #d8d8d8;
+}
+
+.about-upimg {
+    display: inline-block;
+    position: absolute;
+    top: 580%;
+    left: 98%;
+    transform: translate(-50%,-50%);
+    width: 35px;
+    height: 14px;
+    
+}
+
+
