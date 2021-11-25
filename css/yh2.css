@@ -185,3 +185,47 @@ ul {
     width: 56px;
     height: 56px;
 }
+/* house */
+.main-find {
+    margin-top: 30px;
+        display: block;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 30px; 
+}
+/* 문의하기 */
+.input-group-container{
+    text-align: center;
+}
+.input-group {
+    padding: 0;
+    margin-bottom: 20px;
+}
+.input-group input[type=text] {
+    background: transparent;
+    display: block;
+    background: #fff;
+    border: 1px solid #eee;
+    height: 60px;
+    padding-left: 25px;
+    width: 100%;
+}
+.input-group textarea {
+    background: #fff;
+    border: 1px solid #eee;
+    padding: 25px;
+    width: 100%;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+.submit-group {
+    text-align: center;
+}
+.submit-group a {
+    border-bottom: 1px solid #999;
+    color: #999;
+}
+.guide {
+    color: #999;
+}
