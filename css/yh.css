@@ -310,9 +310,23 @@ a {text-decoration:none}
 }
 /* e : 문의하기 */
 /* s : footer */
-
+ul{
+    list-style:none;
+    }
 .main-footer-title {
     font-size: 20px;
     line-height: 180%;
     font-weight: 500;
     color: #000;
+}
+.main-footer-list {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.item a {
+    font-size: 16px;
+    line-height: 180%;
+    font-weight: 500;
+    line-height: 230%;
+    color: #666;
+}
