@@ -272,6 +272,7 @@ a {text-decoration:none}
         line-height: 30px; 
 }
 /* e : find place page*/
+/* s : 문의하기 */
 .input-group-container{
     text-align: center;
 }
@@ -304,6 +305,14 @@ a {text-decoration:none}
     border-bottom: 1px solid #999;
     color: #999;
 }
-.pp-guide {
+.guide {
     color: #999;
 }
+/* e : 문의하기 */
+/* s : footer */
+
+.main-footer-title {
+    font-size: 20px;
+    line-height: 180%;
+    font-weight: 500;
+    color: #000;
