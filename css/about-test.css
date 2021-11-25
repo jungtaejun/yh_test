@@ -63,7 +63,7 @@
 
 .about-page2-3 {
     width: 920px;
-    height: 4329.31px;
+    height: 4079.31px;
     
 }
 
@@ -134,4 +134,41 @@
 
 .about-page2pad {
     padding: 20px;   
+}
+
+.about-link {
+    color: #000;
+    text-decoration-line: none;
+}
+
+.about-textpadding30px {
+    padding-bottom: 30px;
+}
+
+.about-textpadding50px {
+    padding: 50px 0px 8px;
+}
+
+.about-underline {
+    border: 1px solid;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    color: #d8d8d8;
+    padding-top: 80px;
+}
+
+.about-flex-center {
+    display: flex;
+    justify-content: center;
+}
+
+.about-page3all {
+    width: 920px;
+    height: 573px;
+    
+}
+
+.about-footerleft {
+    padding: 0px 15px;
 }
