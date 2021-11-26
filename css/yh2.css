@@ -1,4 +1,28 @@
 /* s : banner */
+.main-logo {
+    position: fixed;
+    left: 33px;
+    top: 27px;
+    width: 26px;
+    z-index: 10;
+}
+.main-trigger {
+    width: 32px;
+    top: 27px;
+    right: 33px;
+    position: fixed;
+    z-index: 101;
+    cursor: pointer;
+}
+.main-down-arrow {
+    position: absolute;
+    left: 50%;
+    bottom: 50px;
+    margin-left: -20px;
+    width: 40px;
+    z-index: 10;
+    cursor: pointer;
+}
 .main-fade-img01 {
     width: 1903px; height: 969px;
     background-size: cover;
