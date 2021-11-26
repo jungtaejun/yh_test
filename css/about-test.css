@@ -1,5 +1,5 @@
 .about-bg {
-    width: 1903px; 
+    width: 1927px; 
     height: 969px;
 }
 
@@ -51,7 +51,7 @@
     display: inline-block;
     position: fixed;
     top: 4%;
-    left: 97%;
+    left: 98%;
     transform: translate(-50%,-50%);
     width: 32px;
     height: 32px;
@@ -170,5 +170,45 @@
 }
 
 .about-footerleft {
-    padding: 0px 15px;
+    padding: 0px 15px; 
 }
+
+.about-email {
+    padding: 60px 0px 8px;
+    /* text-decoration: 5px solid; */
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 2px solid;
+    background-color: #fff;
+    width: 90%;
+    
+}
+
+.about-news {
+    padding-top: 20px;
+    display: inline-block;
+    font-size: 20px;
+
+}
+
+.about-right {
+    width: 28px;
+    height: 28px;
+    margin: 0px 0px 8px 10px;
+}
+
+.about-footer-a {
+    list-style:none;
+    color: #000;
+    text-decoration-line: none;
+    padding: 0px 0px 10px 10px;
+}
+
+.about-all {
+    overflow-x: hidden;
+}
+
+
+
+
