@@ -3,7 +3,6 @@
     width: 100%;
     height: 969px;
 }
-
 .about-title {
     display: inline-block;
     position: absolute;
@@ -15,7 +14,6 @@
     text-align: center;
     
 }
-
 .about-sub-title {
     display: inline-block;
     position: absolute;
@@ -27,7 +25,6 @@
     text-align: center;
     
 }
-
 .about-down {
     display: inline-block;
     width: 40px;
@@ -37,7 +34,6 @@
     left: 50%;
     transform: translate(-50%,-50%);
 }
-
 .about-yoohuu {
     display: inline-block;
     position: fixed;
@@ -47,7 +43,6 @@
     width: 26px;
     height: 66px;
 }
-
 .about-menu {
     display: inline-block;
     position: fixed;
@@ -57,35 +52,29 @@
     width: 32px;
     height: 32px;
 }
-
 .about-section {
     width: 100%;
 }
-
 .about-page2-3 {
     width: 920px;
     height: 4079.31px;
     
 }
-
 .about-flex {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-
 .about-numimg {
     width: 27px;
     height: 51px;
 }
-
 .about-numimg-flex {
     display: flex;
     justify-content: center;
     padding-top: 80px;
     padding-bottom: 40px;
 }
-
 .about-titletext {
     display: flex;
     justify-content: center;
@@ -95,7 +84,6 @@
     font-size: 26px;
     color: #988564;
 }
-
 .about-text {
     width: 950px;
     height: 662.22px;
@@ -103,53 +91,42 @@
     padding-bottom: 80px;
 
 }
-
 .about-textall {
     padding: 20px;
 }
-
 .about-textonepadding {
     font-size: 18px;
     color: #000;
 }
-
 .about-color666 {
     color: #666;
     padding-bottom: 8px;
 }
-
 .about-color999 {
     color: #999;
     padding-bottom: 3px;
 }
-
 .about-textimg {
     width: 100%;
     height: 542px;
     
 }
-
-.about-textpadding3px {
+.about-textpadding-3px {
     padding-bottom: 3px;
 }
-
 .about-page2pad {
     padding: 20px;   
 }
-
 .about-link {
     color: #000;
     text-decoration-line: none;
 }
-
-.about-textpadding30px {
+.about-textpadding-30px {
     padding-bottom: 30px;
 }
-
-.about-textpadding50px {
+.about-textpadding-50px {
     padding: 50px 0px 8px;
 }
-
 .about-underline {
     border: 1px solid;
     border-left: none;
@@ -158,22 +135,18 @@
     color: #d8d8d8;
     padding-top: 80px;
 }
-
 .about-flex-center {
     display: flex;
     justify-content: center;
 }
-
 .about-page3all {
     width: 920px;
     height: 493px;
     
 }
-
 .about-footerleft {
     padding: 0px 15px; 
 }
-
 .about-email {
     padding: 60px 0px 8px;
     /* text-decoration: 5px solid; */
@@ -185,35 +158,94 @@
     width: 90%;
     
 }
-
 .about-news {
     padding-top: 20px;
     display: inline-block;
     font-size: 20px;
 
 }
-
 .about-right {
     width: 28px;
     height: 28px;
     margin: 0px 0px 8px 10px;
 }
-
 .about-footer-a {
     list-style:none;
     color: #000;
     text-decoration-line: none;
     padding: 0px 0px 10px 10px;
 }
-
 .about-all {
     overflow-x: hidden;
 }
-
 .about-up {
     display: flex;
     justify-content: end;
     padding: 0px 20px 30px;
+}
+.about-padding-3px {
+    padding-bottom: 3px; 
+}
+.about-padding-30px {
+    padding-bottom: 30px;
+}
+.about-padding-40px {
+    padding-bottom: 40px;
+}
+.about-top-30px {
+    margin-top: 30px;
+}
+.about-top-100px {
+    padding-top: 100px;
+}
+.about-padding-5px {
+    padding-bottom: 5px;
+}
+.about-top40px-bottom3px {
+    padding-bottom: 3px;
+    padding-top: 40px;
+}
+.about-top-20px {
+    padding-top: 20px;
+}
+.about-padding-20px-0px-font18px {
+    padding:20px 0px;
+    font-size: 18px;
+}
+.about-color-666 {
+    color: #666;
+}
+.about-padding-8px {
+    padding-bottom: 8px;
+}
+.about-underline-width {
+    width: 920px; 
+    height: 121px;
+}
+.about-height-402px {
+    height: 402px;
+}
+.about-font-20px {
+    font-size: 20px;
+}
+.about-bottom45px-font20px {
+    padding-bottom: 45px;
+    font-size: 20px;
+}
+.about-font-14px {
+    font-size: 14px;
+}
+.about-font-13px {
+    font-size: 13px;
+}
+.about-paddingright-45px {
+    padding-right: 45px;
+}
+.about-width-35px {
+    width: 35px;
+}
+.about-height-14px {
+    height: 14.22px;
 }
 
 
