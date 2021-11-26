@@ -250,8 +250,20 @@ ul {
     border-bottom: 1px solid #999;
     color: #999;
 }
+.main-switch {
+    cursor: pointer;
+    width: 16px;
+    height: 16px;
+    margin-right: 6px;
+}
 .guide {
     color: #999;
+}
+textarea:focus {
+    outline: none;
+}
+input:focus {
+    outline:none;
 }
 /* footer */
 .main-footer-title {
@@ -301,4 +313,7 @@ ul {
 .copyright {
     color: #666;
     font-size: 14px;
+}
+.copyright a {
+    color: inherit;
 }
