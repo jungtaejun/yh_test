@@ -7,6 +7,92 @@
     <title>Document</title>
 </head>
 <script>
+//var // 단독사용 변수 선언 후 변경가능
+
+// 동시사용
+//let // 변수 선언 후 변경가능
+//const // 변수 선언 후 변경불가
+
+/*
+sql, c, java
+char(100) // 100 고정형 내가 100이라고 선언을 하면 영문 10글자를쓰면 1234567890 하나둘셋넷
+varchar(100) // 100 가변형 1234567890 
+int // 정수형
+double // 실수 .
+float // 실수 .
+
+
+0
+
+string = "" '\"' 문자열
+number = 1 0.1 숫자 0.1 100
+array = [] 배열
+object = {}
+boolean = treu
+
+*/
+const a = [
+    {name: '정태준', age: 18, daddy: {name: 'aaa', age: 100}},
+]
+
+a.psuh({name: '정태준', age: 18, daddy: {name: 'aaa', age: 100}})
+a.pop()
+a.shift()
+a.unshift()
+
+const b = { 
+    0: {name: '정태준', age: 18, daddy: {name: 'aaa', age: 100}}
+}
+
+b[1] = {{name: '정태준', age: 18, daddy: {name: 'aaa', age: 100}}}
+if (true && (true || true)) {
+
+}
+if (false || true || true) {
+
+}
+if (a === 1) {
+
+} else if ( a === 2) {
+
+} else {
+
+}
+
+switch (a) {
+    case 1:
+        
+        break;
+    case 2:
+        
+        break;
+
+    default:
+
+        break;
+}
+// if ( && ) === switch
+// for === while
+
+for (let i = 0; i < 10; i++)
+
+const rows = [
+    {name: '정태준', age: 18, daddy: {name: 'aaa', age: 100}},
+]
+for (let row of rows) {
+    console.log(row.name, row.age) // 정태준, 18
+}
+
+const keys = {name: '정태준', age: 18}
+for (let key in keys) { // columns object
+    //console.log(key) // name, age
+    console.log(keys[key])
+
+    //정태준
+    //18
+
+}
+
 
 </script>
 <body>
